@@ -1,64 +1,79 @@
 using System;
 using System.Collections.Generic;
-using System.IO; // Used for file handling
+using System.IO;
 
 /*
-    ============================================
-        STUDENT MANAGEMENT SYSTEM (ADVANCED)
-    ============================================
+    =====================================================
+        STUDENT MANAGEMENT SYSTEM (FULL BEGINNER PROJECT)
+    =====================================================
 
     FEATURES:
-    1. Add Student
-    2. View Students
-    3. Search Student
-    4. Update Student
-    5. Delete Student
-    6. File Saving
-    7. File Loading
+    1. Login System
+    2. Add Student
+    3. View Students
+    4. Search Student
+    5. Update Student
+    6. Delete Student
+    7. Grade Calculation
+    8. File Saving
+    9. File Loading
 
     CONCEPTS USED:
-    - Class & Object
-    - List Collection
+    - Class & Objects
     - Methods
+    - List Collection
     - Loops
     - Switch Case
     - File Handling
     - CRUD Operations
+    - Login Authentication
+    - Grade Logic
 */
 
 class Student
 {
     // DATA MEMBERS / VARIABLES
+
     public int Id;
     public string Name;
     public int Marks;
+    public string Grade;
 }
 
 class Program
 {
     /*
-        LIST:
-        Stores all student objects.
+        LIST COLLECTION:
+        Stores multiple student objects.
     */
     static List<Student> students = new List<Student>();
 
     /*
         FILE PATH:
-        Data will be stored inside this file.
+        Student data will be saved here.
     */
     static string filePath = "students.txt";
+
+    /*
+        LOGIN CREDENTIALS
+    */
+    static string username = "admin";
+    static string password = "1234";
 
     static void Main()
     {
         /*
+            LOGIN SYSTEM
+        */
+        Login();
+
+        /*
             LOAD DATA FROM FILE
-            when program starts.
         */
         LoadFromFile();
 
         /*
-            INFINITE LOOP:
-            Keeps program running continuously.
+            MAIN MENU LOOP
         */
         while (true)
         {
@@ -71,7 +86,7 @@ class Program
             Console.WriteLine("3. Search Student");
             Console.WriteLine("4. Update Student");
             Console.WriteLine("5. Delete Student");
-            Console.WriteLine("6. Save Data To File");
+            Console.WriteLine("6. Save Data");
             Console.WriteLine("7. Exit");
 
             Console.Write("\nEnter Choice: ");
@@ -112,13 +127,80 @@ class Program
                     Console.WriteLine("\nSaving Data Before Exit...");
                     SaveToFile();
 
-                    Console.WriteLine("Program Closed!");
+                    Console.WriteLine("Program Closed Successfully!");
                     return;
 
                 default:
                     Console.WriteLine("\nInvalid Choice!");
                     break;
             }
+        }
+    }
+
+    /*
+        LOGIN METHOD
+    */
+    static void Login()
+    {
+        Console.WriteLine("=================================");
+        Console.WriteLine("          LOGIN SYSTEM");
+        Console.WriteLine("=================================");
+
+        /*
+            LOOP UNTIL CORRECT LOGIN
+        */
+        while (true)
+        {
+            Console.Write("\nEnter Username: ");
+            string user = Console.ReadLine();
+
+            Console.Write("Enter Password: ");
+            string pass = Console.ReadLine();
+
+            /*
+                CHECK USERNAME & PASSWORD
+            */
+            if (user == username && pass == password)
+            {
+                Console.WriteLine("\nLogin Successful!");
+                break;
+            }
+            else
+            {
+                Console.WriteLine("\nInvalid Username or Password!");
+            }
+        }
+    }
+
+    /*
+        METHOD TO CALCULATE GRADE
+    */
+    static string CalculateGrade(int marks)
+    {
+        /*
+            IF ELSE LADDER:
+            Used for multiple conditions.
+        */
+
+        if (marks >= 90)
+        {
+            return "A+";
+        }
+        else if (marks >= 75)
+        {
+            return "A";
+        }
+        else if (marks >= 60)
+        {
+            return "B";
+        }
+        else if (marks >= 40)
+        {
+            return "C";
+        }
+        else
+        {
+            return "Fail";
         }
     }
 
@@ -142,8 +224,10 @@ class Program
         s.Marks = Convert.ToInt32(Console.ReadLine());
 
         /*
-            ADD OBJECT INTO LIST
+            GRADE CALCULATION
         */
+        s.Grade = CalculateGrade(s.Marks);
+
         students.Add(s);
 
         Console.WriteLine("\nStudent Added Successfully!");
@@ -154,9 +238,6 @@ class Program
     */
     static void ViewStudents()
     {
-        /*
-            CHECK IF LIST IS EMPTY
-        */
         if (students.Count == 0)
         {
             Console.WriteLine("\nNo Students Found!");
@@ -166,8 +247,7 @@ class Program
         Console.WriteLine("\n========== STUDENT LIST ==========");
 
         /*
-            FOREACH LOOP:
-            Accesses every student object.
+            FOREACH LOOP
         */
         foreach (Student s in students)
         {
@@ -175,6 +255,7 @@ class Program
             Console.WriteLine("ID     : " + s.Id);
             Console.WriteLine("Name   : " + s.Name);
             Console.WriteLine("Marks  : " + s.Marks);
+            Console.WriteLine("Grade  : " + s.Grade);
         }
     }
 
@@ -191,9 +272,6 @@ class Program
 
         foreach (Student s in students)
         {
-            /*
-                COMPARISON USING IF CONDITION
-            */
             if (s.Id == searchId)
             {
                 Console.WriteLine("\nStudent Found!");
@@ -201,6 +279,7 @@ class Program
                 Console.WriteLine("ID     : " + s.Id);
                 Console.WriteLine("Name   : " + s.Name);
                 Console.WriteLine("Marks  : " + s.Marks);
+                Console.WriteLine("Grade  : " + s.Grade);
 
                 found = true;
 
@@ -237,6 +316,11 @@ class Program
                 Console.Write("Enter New Marks: ");
                 s.Marks = Convert.ToInt32(Console.ReadLine());
 
+                /*
+                    UPDATE GRADE AUTOMATICALLY
+                */
+                s.Grade = CalculateGrade(s.Marks);
+
                 Console.WriteLine("\nStudent Updated Successfully!");
 
                 found = true;
@@ -264,17 +348,12 @@ class Program
 
         /*
             FOR LOOP:
-            Used because removing items during foreach
-            can cause errors.
+            Safe for deletion operation.
         */
         for (int i = 0; i < students.Count; i++)
         {
             if (students[i].Id == deleteId)
             {
-                /*
-                    RemoveAt(i):
-                    Removes object from list.
-                */
                 students.RemoveAt(i);
 
                 Console.WriteLine("\nStudent Deleted Successfully!");
@@ -298,25 +377,27 @@ class Program
     {
         /*
             StreamWriter:
-            Used to write data into file.
+            Writes data into file.
         */
         StreamWriter writer = new StreamWriter(filePath);
 
         foreach (Student s in students)
         {
             /*
-                SAVING FORMAT:
-                ID,Name,Marks
+                FILE FORMAT:
+                ID,Name,Marks,Grade
             */
-            writer.WriteLine(s.Id + "," + s.Name + "," + s.Marks);
+            writer.WriteLine(
+                s.Id + "," +
+                s.Name + "," +
+                s.Marks + "," +
+                s.Grade
+            );
         }
 
-        /*
-            CLOSE FILE
-        */
         writer.Close();
 
-        Console.WriteLine("\nData Saved To File Successfully!");
+        Console.WriteLine("\nData Saved Successfully!");
     }
 
     /*
@@ -325,39 +406,31 @@ class Program
     static void LoadFromFile()
     {
         /*
-            File.Exists():
-            Checks whether file exists or not.
+            CHECK FILE EXISTENCE
         */
         if (File.Exists(filePath))
         {
             /*
-                ReadAllLines():
-                Reads all file lines into array.
+                READ ALL FILE LINES
             */
             string[] lines = File.ReadAllLines(filePath);
 
-            /*
-                LOOP THROUGH EACH LINE
-            */
             foreach (string line in lines)
             {
                 /*
-                    SPLIT():
-                    Splits text using comma.
-
-                    Example:
-                    101,Rahul,89
+                    SPLIT DATA USING COMMA
                 */
                 string[] data = line.Split(',');
 
                 /*
-                    CREATE NEW OBJECT
+                    CREATE OBJECT
                 */
                 Student s = new Student();
 
                 s.Id = Convert.ToInt32(data[0]);
                 s.Name = data[1];
                 s.Marks = Convert.ToInt32(data[2]);
+                s.Grade = data[3];
 
                 students.Add(s);
             }
