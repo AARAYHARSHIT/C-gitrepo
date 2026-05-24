@@ -1,0 +1,15 @@
+H:\Codes\C#\C#gitrepo\Functions\bin\Debug\net10.0\Functions.exe
+H:\Codes\C#\C#gitrepo\Functions\bin\Debug\net10.0\Functions.deps.json
+H:\Codes\C#\C#gitrepo\Functions\bin\Debug\net10.0\Functions.runtimeconfig.json
+H:\Codes\C#\C#gitrepo\Functions\bin\Debug\net10.0\Functions.dll
+H:\Codes\C#\C#gitrepo\Functions\bin\Debug\net10.0\Functions.pdb
+H:\Codes\C#\C#gitrepo\Functions\obj\Debug\net10.0\Functions.GeneratedMSBuildEditorConfig.editorconfig
+H:\Codes\C#\C#gitrepo\Functions\obj\Debug\net10.0\Functions.AssemblyInfoInputs.cache
+H:\Codes\C#\C#gitrepo\Functions\obj\Debug\net10.0\Functions.AssemblyInfo.cs
+H:\Codes\C#\C#gitrepo\Functions\obj\Debug\net10.0\Functions.csproj.CoreCompileInputs.cache
+H:\Codes\C#\C#gitrepo\Functions\obj\Debug\net10.0\Functions.sourcelink.json
+H:\Codes\C#\C#gitrepo\Functions\obj\Debug\net10.0\Functions.dll
+H:\Codes\C#\C#gitrepo\Functions\obj\Debug\net10.0\refint\Functions.dll
+H:\Codes\C#\C#gitrepo\Functions\obj\Debug\net10.0\Functions.pdb
+H:\Codes\C#\C#gitrepo\Functions\obj\Debug\net10.0\Functions.genruntimeconfig.cache
+H:\Codes\C#\C#gitrepo\Functions\obj\Debug\net10.0\ref\Functions.dll
