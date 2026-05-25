@@ -1,0 +1,15 @@
+H:\Codes\C#\C#gitrepo\OOPs\bin\Debug\net10.0\OOPs.exe
+H:\Codes\C#\C#gitrepo\OOPs\bin\Debug\net10.0\OOPs.deps.json
+H:\Codes\C#\C#gitrepo\OOPs\bin\Debug\net10.0\OOPs.runtimeconfig.json
+H:\Codes\C#\C#gitrepo\OOPs\bin\Debug\net10.0\OOPs.dll
+H:\Codes\C#\C#gitrepo\OOPs\bin\Debug\net10.0\OOPs.pdb
+H:\Codes\C#\C#gitrepo\OOPs\obj\Debug\net10.0\OOPs.GeneratedMSBuildEditorConfig.editorconfig
+H:\Codes\C#\C#gitrepo\OOPs\obj\Debug\net10.0\OOPs.AssemblyInfoInputs.cache
+H:\Codes\C#\C#gitrepo\OOPs\obj\Debug\net10.0\OOPs.AssemblyInfo.cs
+H:\Codes\C#\C#gitrepo\OOPs\obj\Debug\net10.0\OOPs.csproj.CoreCompileInputs.cache
+H:\Codes\C#\C#gitrepo\OOPs\obj\Debug\net10.0\OOPs.sourcelink.json
+H:\Codes\C#\C#gitrepo\OOPs\obj\Debug\net10.0\OOPs.dll
+H:\Codes\C#\C#gitrepo\OOPs\obj\Debug\net10.0\refint\OOPs.dll
+H:\Codes\C#\C#gitrepo\OOPs\obj\Debug\net10.0\OOPs.pdb
+H:\Codes\C#\C#gitrepo\OOPs\obj\Debug\net10.0\OOPs.genruntimeconfig.cache
+H:\Codes\C#\C#gitrepo\OOPs\obj\Debug\net10.0\ref\OOPs.dll
