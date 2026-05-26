@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "h:\\Codes\\C#\\C#gitrepo\\OOPs\\OOPs.csproj": {}
+    "H:\\Codes\\C#\\C#gitrepo\\OOPs\\OOPs.csproj": {}
   },
   "projects": {
-    "h:\\Codes\\C#\\C#gitrepo\\OOPs\\OOPs.csproj": {
+    "H:\\Codes\\C#\\C#gitrepo\\OOPs\\OOPs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "h:\\Codes\\C#\\C#gitrepo\\OOPs\\OOPs.csproj",
+        "projectUniqueName": "H:\\Codes\\C#\\C#gitrepo\\OOPs\\OOPs.csproj",
         "projectName": "OOPs",
-        "projectPath": "h:\\Codes\\C#\\C#gitrepo\\OOPs\\OOPs.csproj",
+        "projectPath": "H:\\Codes\\C#\\C#gitrepo\\OOPs\\OOPs.csproj",
         "packagesPath": "C:\\Users\\harsh\\.nuget\\packages\\",
-        "outputPath": "h:\\Codes\\C#\\C#gitrepo\\OOPs\\obj\\",
+        "outputPath": "H:\\Codes\\C#\\C#gitrepo\\OOPs\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\harsh\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,0 +1,15 @@
+H:\Codes\C#\C#gitrepo\OOPS2\bin\Debug\net10.0\OOPS2.exe
+H:\Codes\C#\C#gitrepo\OOPS2\bin\Debug\net10.0\OOPS2.deps.json
+H:\Codes\C#\C#gitrepo\OOPS2\bin\Debug\net10.0\OOPS2.runtimeconfig.json
+H:\Codes\C#\C#gitrepo\OOPS2\bin\Debug\net10.0\OOPS2.dll
+H:\Codes\C#\C#gitrepo\OOPS2\bin\Debug\net10.0\OOPS2.pdb
+H:\Codes\C#\C#gitrepo\OOPS2\obj\Debug\net10.0\OOPS2.GeneratedMSBuildEditorConfig.editorconfig
+H:\Codes\C#\C#gitrepo\OOPS2\obj\Debug\net10.0\OOPS2.AssemblyInfoInputs.cache
+H:\Codes\C#\C#gitrepo\OOPS2\obj\Debug\net10.0\OOPS2.AssemblyInfo.cs
+H:\Codes\C#\C#gitrepo\OOPS2\obj\Debug\net10.0\OOPS2.csproj.CoreCompileInputs.cache
+H:\Codes\C#\C#gitrepo\OOPS2\obj\Debug\net10.0\OOPS2.sourcelink.json
+H:\Codes\C#\C#gitrepo\OOPS2\obj\Debug\net10.0\OOPS2.dll
+H:\Codes\C#\C#gitrepo\OOPS2\obj\Debug\net10.0\refint\OOPS2.dll
+H:\Codes\C#\C#gitrepo\OOPS2\obj\Debug\net10.0\OOPS2.pdb
+H:\Codes\C#\C#gitrepo\OOPS2\obj\Debug\net10.0\OOPS2.genruntimeconfig.cache
+H:\Codes\C#\C#gitrepo\OOPS2\obj\Debug\net10.0\ref\OOPS2.dll
