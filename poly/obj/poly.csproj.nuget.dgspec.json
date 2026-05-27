@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "h:\\Codes\\C#\\C#gitrepo\\poly\\poly.csproj": {}
+    "H:\\Codes\\C#\\C#gitrepo\\poly\\poly.csproj": {}
   },
   "projects": {
-    "h:\\Codes\\C#\\C#gitrepo\\poly\\poly.csproj": {
+    "H:\\Codes\\C#\\C#gitrepo\\poly\\poly.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "h:\\Codes\\C#\\C#gitrepo\\poly\\poly.csproj",
+        "projectUniqueName": "H:\\Codes\\C#\\C#gitrepo\\poly\\poly.csproj",
         "projectName": "poly",
-        "projectPath": "h:\\Codes\\C#\\C#gitrepo\\poly\\poly.csproj",
+        "projectPath": "H:\\Codes\\C#\\C#gitrepo\\poly\\poly.csproj",
         "packagesPath": "C:\\Users\\harsh\\.nuget\\packages\\",
-        "outputPath": "h:\\Codes\\C#\\C#gitrepo\\poly\\obj\\",
+        "outputPath": "H:\\Codes\\C#\\C#gitrepo\\poly\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\harsh\\AppData\\Roaming\\NuGet\\NuGet.Config"
