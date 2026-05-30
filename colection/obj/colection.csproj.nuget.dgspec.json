@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "H:\\Codes\\C#\\C#gitrepo\\FileRead\\FileRead.csproj": {}
+    "H:\\Codes\\C#\\C#gitrepo\\colection\\colection.csproj": {}
   },
   "projects": {
-    "H:\\Codes\\C#\\C#gitrepo\\FileRead\\FileRead.csproj": {
+    "H:\\Codes\\C#\\C#gitrepo\\colection\\colection.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\Codes\\C#\\C#gitrepo\\FileRead\\FileRead.csproj",
-        "projectName": "FileRead",
-        "projectPath": "H:\\Codes\\C#\\C#gitrepo\\FileRead\\FileRead.csproj",
+        "projectUniqueName": "H:\\Codes\\C#\\C#gitrepo\\colection\\colection.csproj",
+        "projectName": "colection",
+        "projectPath": "H:\\Codes\\C#\\C#gitrepo\\colection\\colection.csproj",
         "packagesPath": "C:\\Users\\harsh\\.nuget\\packages\\",
-        "outputPath": "H:\\Codes\\C#\\C#gitrepo\\FileRead\\obj\\",
+        "outputPath": "H:\\Codes\\C#\\C#gitrepo\\colection\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\harsh\\AppData\\Roaming\\NuGet\\NuGet.Config"

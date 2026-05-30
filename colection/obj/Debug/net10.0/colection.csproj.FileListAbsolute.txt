@@ -1,0 +1,15 @@
+H:\Codes\C#\C#gitrepo\colection\bin\Debug\net10.0\colection.exe
+H:\Codes\C#\C#gitrepo\colection\bin\Debug\net10.0\colection.deps.json
+H:\Codes\C#\C#gitrepo\colection\bin\Debug\net10.0\colection.runtimeconfig.json
+H:\Codes\C#\C#gitrepo\colection\bin\Debug\net10.0\colection.dll
+H:\Codes\C#\C#gitrepo\colection\bin\Debug\net10.0\colection.pdb
+H:\Codes\C#\C#gitrepo\colection\obj\Debug\net10.0\colection.GeneratedMSBuildEditorConfig.editorconfig
+H:\Codes\C#\C#gitrepo\colection\obj\Debug\net10.0\colection.AssemblyInfoInputs.cache
+H:\Codes\C#\C#gitrepo\colection\obj\Debug\net10.0\colection.AssemblyInfo.cs
+H:\Codes\C#\C#gitrepo\colection\obj\Debug\net10.0\colection.csproj.CoreCompileInputs.cache
+H:\Codes\C#\C#gitrepo\colection\obj\Debug\net10.0\colection.sourcelink.json
+H:\Codes\C#\C#gitrepo\colection\obj\Debug\net10.0\colection.dll
+H:\Codes\C#\C#gitrepo\colection\obj\Debug\net10.0\refint\colection.dll
+H:\Codes\C#\C#gitrepo\colection\obj\Debug\net10.0\colection.pdb
+H:\Codes\C#\C#gitrepo\colection\obj\Debug\net10.0\colection.genruntimeconfig.cache
+H:\Codes\C#\C#gitrepo\colection\obj\Debug\net10.0\ref\colection.dll
