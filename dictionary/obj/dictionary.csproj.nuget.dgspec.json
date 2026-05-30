@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "h:\\Codes\\C#\\C#gitrepo\\colection\\colection.csproj": {}
+    "h:\\Codes\\C#\\C#gitrepo\\dictionary\\dictionary.csproj": {}
   },
   "projects": {
-    "h:\\Codes\\C#\\C#gitrepo\\colection\\colection.csproj": {
+    "h:\\Codes\\C#\\C#gitrepo\\dictionary\\dictionary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "h:\\Codes\\C#\\C#gitrepo\\colection\\colection.csproj",
-        "projectName": "colection",
-        "projectPath": "h:\\Codes\\C#\\C#gitrepo\\colection\\colection.csproj",
+        "projectUniqueName": "h:\\Codes\\C#\\C#gitrepo\\dictionary\\dictionary.csproj",
+        "projectName": "dictionary",
+        "projectPath": "h:\\Codes\\C#\\C#gitrepo\\dictionary\\dictionary.csproj",
         "packagesPath": "C:\\Users\\harsh\\.nuget\\packages\\",
-        "outputPath": "h:\\Codes\\C#\\C#gitrepo\\colection\\obj\\",
+        "outputPath": "h:\\Codes\\C#\\C#gitrepo\\dictionary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\harsh\\AppData\\Roaming\\NuGet\\NuGet.Config"
