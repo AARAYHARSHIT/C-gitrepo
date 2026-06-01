@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "H:\\Codes\\C#\\C#gitrepo\\dictionary\\dictionary.csproj": {}
+    "h:\\Codes\\C#\\C#gitrepo\\linq\\linq.csproj": {}
   },
   "projects": {
-    "H:\\Codes\\C#\\C#gitrepo\\dictionary\\dictionary.csproj": {
+    "h:\\Codes\\C#\\C#gitrepo\\linq\\linq.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\Codes\\C#\\C#gitrepo\\dictionary\\dictionary.csproj",
-        "projectName": "dictionary",
-        "projectPath": "H:\\Codes\\C#\\C#gitrepo\\dictionary\\dictionary.csproj",
+        "projectUniqueName": "h:\\Codes\\C#\\C#gitrepo\\linq\\linq.csproj",
+        "projectName": "linq",
+        "projectPath": "h:\\Codes\\C#\\C#gitrepo\\linq\\linq.csproj",
         "packagesPath": "C:\\Users\\harsh\\.nuget\\packages\\",
-        "outputPath": "H:\\Codes\\C#\\C#gitrepo\\dictionary\\obj\\",
+        "outputPath": "h:\\Codes\\C#\\C#gitrepo\\linq\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\harsh\\AppData\\Roaming\\NuGet\\NuGet.Config"
