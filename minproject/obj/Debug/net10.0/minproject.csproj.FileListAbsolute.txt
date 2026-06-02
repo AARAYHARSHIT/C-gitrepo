@@ -1,0 +1,15 @@
+H:\Codes\C#\C#gitrepo\minproject\bin\Debug\net10.0\minproject.exe
+H:\Codes\C#\C#gitrepo\minproject\bin\Debug\net10.0\minproject.deps.json
+H:\Codes\C#\C#gitrepo\minproject\bin\Debug\net10.0\minproject.runtimeconfig.json
+H:\Codes\C#\C#gitrepo\minproject\bin\Debug\net10.0\minproject.dll
+H:\Codes\C#\C#gitrepo\minproject\bin\Debug\net10.0\minproject.pdb
+H:\Codes\C#\C#gitrepo\minproject\obj\Debug\net10.0\minproject.GeneratedMSBuildEditorConfig.editorconfig
+H:\Codes\C#\C#gitrepo\minproject\obj\Debug\net10.0\minproject.AssemblyInfoInputs.cache
+H:\Codes\C#\C#gitrepo\minproject\obj\Debug\net10.0\minproject.AssemblyInfo.cs
+H:\Codes\C#\C#gitrepo\minproject\obj\Debug\net10.0\minproject.csproj.CoreCompileInputs.cache
+H:\Codes\C#\C#gitrepo\minproject\obj\Debug\net10.0\minproject.sourcelink.json
+H:\Codes\C#\C#gitrepo\minproject\obj\Debug\net10.0\minproject.dll
+H:\Codes\C#\C#gitrepo\minproject\obj\Debug\net10.0\refint\minproject.dll
+H:\Codes\C#\C#gitrepo\minproject\obj\Debug\net10.0\minproject.pdb
+H:\Codes\C#\C#gitrepo\minproject\obj\Debug\net10.0\minproject.genruntimeconfig.cache
+H:\Codes\C#\C#gitrepo\minproject\obj\Debug\net10.0\ref\minproject.dll
