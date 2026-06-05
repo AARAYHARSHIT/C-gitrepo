@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "h:\\Codes\\C#\\C#gitrepo\\generic\\generic.csproj": {}
+    "H:\\Codes\\C#\\C#gitrepo\\generic\\generic.csproj": {}
   },
   "projects": {
-    "h:\\Codes\\C#\\C#gitrepo\\generic\\generic.csproj": {
+    "H:\\Codes\\C#\\C#gitrepo\\generic\\generic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "h:\\Codes\\C#\\C#gitrepo\\generic\\generic.csproj",
+        "projectUniqueName": "H:\\Codes\\C#\\C#gitrepo\\generic\\generic.csproj",
         "projectName": "generic",
-        "projectPath": "h:\\Codes\\C#\\C#gitrepo\\generic\\generic.csproj",
+        "projectPath": "H:\\Codes\\C#\\C#gitrepo\\generic\\generic.csproj",
         "packagesPath": "C:\\Users\\harsh\\.nuget\\packages\\",
-        "outputPath": "h:\\Codes\\C#\\C#gitrepo\\generic\\obj\\",
+        "outputPath": "H:\\Codes\\C#\\C#gitrepo\\generic\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\harsh\\AppData\\Roaming\\NuGet\\NuGet.Config"

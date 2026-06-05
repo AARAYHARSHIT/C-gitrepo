@@ -1,0 +1,15 @@
+H:\Codes\C#\C#gitrepo\generic\bin\Debug\net10.0\generic.exe
+H:\Codes\C#\C#gitrepo\generic\bin\Debug\net10.0\generic.deps.json
+H:\Codes\C#\C#gitrepo\generic\bin\Debug\net10.0\generic.runtimeconfig.json
+H:\Codes\C#\C#gitrepo\generic\bin\Debug\net10.0\generic.dll
+H:\Codes\C#\C#gitrepo\generic\bin\Debug\net10.0\generic.pdb
+H:\Codes\C#\C#gitrepo\generic\obj\Debug\net10.0\generic.GeneratedMSBuildEditorConfig.editorconfig
+H:\Codes\C#\C#gitrepo\generic\obj\Debug\net10.0\generic.AssemblyInfoInputs.cache
+H:\Codes\C#\C#gitrepo\generic\obj\Debug\net10.0\generic.AssemblyInfo.cs
+H:\Codes\C#\C#gitrepo\generic\obj\Debug\net10.0\generic.csproj.CoreCompileInputs.cache
+H:\Codes\C#\C#gitrepo\generic\obj\Debug\net10.0\generic.sourcelink.json
+H:\Codes\C#\C#gitrepo\generic\obj\Debug\net10.0\generic.dll
+H:\Codes\C#\C#gitrepo\generic\obj\Debug\net10.0\refint\generic.dll
+H:\Codes\C#\C#gitrepo\generic\obj\Debug\net10.0\generic.pdb
+H:\Codes\C#\C#gitrepo\generic\obj\Debug\net10.0\generic.genruntimeconfig.cache
+H:\Codes\C#\C#gitrepo\generic\obj\Debug\net10.0\ref\generic.dll
