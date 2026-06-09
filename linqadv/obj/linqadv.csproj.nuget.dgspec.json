@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "H:\\Codes\\C#\\C#gitrepo\\delegate\\delegate.csproj": {}
+    "h:\\Codes\\C#\\C#gitrepo\\linqadv\\linqadv.csproj": {}
   },
   "projects": {
-    "H:\\Codes\\C#\\C#gitrepo\\delegate\\delegate.csproj": {
+    "h:\\Codes\\C#\\C#gitrepo\\linqadv\\linqadv.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\Codes\\C#\\C#gitrepo\\delegate\\delegate.csproj",
-        "projectName": "delegate",
-        "projectPath": "H:\\Codes\\C#\\C#gitrepo\\delegate\\delegate.csproj",
+        "projectUniqueName": "h:\\Codes\\C#\\C#gitrepo\\linqadv\\linqadv.csproj",
+        "projectName": "linqadv",
+        "projectPath": "h:\\Codes\\C#\\C#gitrepo\\linqadv\\linqadv.csproj",
         "packagesPath": "C:\\Users\\harsh\\.nuget\\packages\\",
-        "outputPath": "H:\\Codes\\C#\\C#gitrepo\\delegate\\obj\\",
+        "outputPath": "h:\\Codes\\C#\\C#gitrepo\\linqadv\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\harsh\\AppData\\Roaming\\NuGet\\NuGet.Config"
