@@ -1,0 +1,15 @@
+H:\Codes\C#\C#gitrepo\async\bin\Debug\net10.0\async.exe
+H:\Codes\C#\C#gitrepo\async\bin\Debug\net10.0\async.deps.json
+H:\Codes\C#\C#gitrepo\async\bin\Debug\net10.0\async.runtimeconfig.json
+H:\Codes\C#\C#gitrepo\async\bin\Debug\net10.0\async.dll
+H:\Codes\C#\C#gitrepo\async\bin\Debug\net10.0\async.pdb
+H:\Codes\C#\C#gitrepo\async\obj\Debug\net10.0\async.GeneratedMSBuildEditorConfig.editorconfig
+H:\Codes\C#\C#gitrepo\async\obj\Debug\net10.0\async.AssemblyInfoInputs.cache
+H:\Codes\C#\C#gitrepo\async\obj\Debug\net10.0\async.AssemblyInfo.cs
+H:\Codes\C#\C#gitrepo\async\obj\Debug\net10.0\async.csproj.CoreCompileInputs.cache
+H:\Codes\C#\C#gitrepo\async\obj\Debug\net10.0\async.sourcelink.json
+H:\Codes\C#\C#gitrepo\async\obj\Debug\net10.0\async.dll
+H:\Codes\C#\C#gitrepo\async\obj\Debug\net10.0\refint\async.dll
+H:\Codes\C#\C#gitrepo\async\obj\Debug\net10.0\async.pdb
+H:\Codes\C#\C#gitrepo\async\obj\Debug\net10.0\async.genruntimeconfig.cache
+H:\Codes\C#\C#gitrepo\async\obj\Debug\net10.0\ref\async.dll

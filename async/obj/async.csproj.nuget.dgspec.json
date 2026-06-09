@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "h:\\Codes\\C#\\C#gitrepo\\async\\async.csproj": {}
+    "H:\\Codes\\C#\\C#gitrepo\\async\\async.csproj": {}
   },
   "projects": {
-    "h:\\Codes\\C#\\C#gitrepo\\async\\async.csproj": {
+    "H:\\Codes\\C#\\C#gitrepo\\async\\async.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "h:\\Codes\\C#\\C#gitrepo\\async\\async.csproj",
+        "projectUniqueName": "H:\\Codes\\C#\\C#gitrepo\\async\\async.csproj",
         "projectName": "async",
-        "projectPath": "h:\\Codes\\C#\\C#gitrepo\\async\\async.csproj",
+        "projectPath": "H:\\Codes\\C#\\C#gitrepo\\async\\async.csproj",
         "packagesPath": "C:\\Users\\harsh\\.nuget\\packages\\",
-        "outputPath": "h:\\Codes\\C#\\C#gitrepo\\async\\obj\\",
+        "outputPath": "H:\\Codes\\C#\\C#gitrepo\\async\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\harsh\\AppData\\Roaming\\NuGet\\NuGet.Config"
