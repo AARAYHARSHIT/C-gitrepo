@@ -1,0 +1,15 @@
+H:\Codes\C#\C#gitrepo\linqadv\bin\Debug\net10.0\linqadv.exe
+H:\Codes\C#\C#gitrepo\linqadv\bin\Debug\net10.0\linqadv.deps.json
+H:\Codes\C#\C#gitrepo\linqadv\bin\Debug\net10.0\linqadv.runtimeconfig.json
+H:\Codes\C#\C#gitrepo\linqadv\bin\Debug\net10.0\linqadv.dll
+H:\Codes\C#\C#gitrepo\linqadv\bin\Debug\net10.0\linqadv.pdb
+H:\Codes\C#\C#gitrepo\linqadv\obj\Debug\net10.0\linqadv.GeneratedMSBuildEditorConfig.editorconfig
+H:\Codes\C#\C#gitrepo\linqadv\obj\Debug\net10.0\linqadv.AssemblyInfoInputs.cache
+H:\Codes\C#\C#gitrepo\linqadv\obj\Debug\net10.0\linqadv.AssemblyInfo.cs
+H:\Codes\C#\C#gitrepo\linqadv\obj\Debug\net10.0\linqadv.csproj.CoreCompileInputs.cache
+H:\Codes\C#\C#gitrepo\linqadv\obj\Debug\net10.0\linqadv.sourcelink.json
+H:\Codes\C#\C#gitrepo\linqadv\obj\Debug\net10.0\linqadv.dll
+H:\Codes\C#\C#gitrepo\linqadv\obj\Debug\net10.0\refint\linqadv.dll
+H:\Codes\C#\C#gitrepo\linqadv\obj\Debug\net10.0\linqadv.pdb
+H:\Codes\C#\C#gitrepo\linqadv\obj\Debug\net10.0\linqadv.genruntimeconfig.cache
+H:\Codes\C#\C#gitrepo\linqadv\obj\Debug\net10.0\ref\linqadv.dll
