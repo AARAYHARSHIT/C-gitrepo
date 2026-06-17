@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("linqadv")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5351621b9791d46c8fdac3f9d438385a7ef78b41")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+857c988ba39f1beecca535ff5b11912ddc527d1c")]
 [assembly: System.Reflection.AssemblyProductAttribute("linqadv")]
 [assembly: System.Reflection.AssemblyTitleAttribute("linqadv")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

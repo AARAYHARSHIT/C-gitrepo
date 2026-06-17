@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "H:\\Codes\\C#\\C#gitrepo\\linqadv\\linqadv.csproj": {}
+    "h:\\Codes\\C#\\C#gitrepo\\depinjection\\depinjection.csproj": {}
   },
   "projects": {
-    "H:\\Codes\\C#\\C#gitrepo\\linqadv\\linqadv.csproj": {
+    "h:\\Codes\\C#\\C#gitrepo\\depinjection\\depinjection.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\Codes\\C#\\C#gitrepo\\linqadv\\linqadv.csproj",
-        "projectName": "linqadv",
-        "projectPath": "H:\\Codes\\C#\\C#gitrepo\\linqadv\\linqadv.csproj",
+        "projectUniqueName": "h:\\Codes\\C#\\C#gitrepo\\depinjection\\depinjection.csproj",
+        "projectName": "depinjection",
+        "projectPath": "h:\\Codes\\C#\\C#gitrepo\\depinjection\\depinjection.csproj",
         "packagesPath": "C:\\Users\\harsh\\.nuget\\packages\\",
-        "outputPath": "H:\\Codes\\C#\\C#gitrepo\\linqadv\\obj\\",
+        "outputPath": "h:\\Codes\\C#\\C#gitrepo\\depinjection\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\harsh\\AppData\\Roaming\\NuGet\\NuGet.Config"
